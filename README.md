@@ -1,5 +1,7 @@
+![image](https://github.com/Sammy192/DSMovie_springExpert/assets/53224915/4ea4c70e-d02b-40fd-a662-ad5d8c8cdb94)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ## Desafio DSMovie Jacoco
 Você deve implementar todos os testes unitários de service para o projeto DSMovie.
